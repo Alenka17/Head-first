@@ -48,7 +48,7 @@ class movie {
 
     }
 }
-public class MovieTestDrive{
+public class MovieTestDrive {
     public static void main(String[] args) {
         movie one = new movie();
         one.title = "Gone with a Stock";
@@ -66,5 +66,6 @@ public class MovieTestDrive{
         }
 
     }
+}
 
 
